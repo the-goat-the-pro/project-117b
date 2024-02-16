@@ -1,0 +1,39 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: greenyellow;
+}
+h1
+{
+    font-family: 'Oswald', sans-serif;
+    background-color:floralwhite;
+    color: rgb(95, 184, 243);
+}
+#show_sketch
+{
+    float: right;
+    cursor: default;
+}
+#timer
+{
+    float: right;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    margin: 10px;
+}
+#score
+{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+    margin: 10px;
+}
+#sketch_to_be_drawn
+{
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+}
